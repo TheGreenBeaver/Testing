@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="default_button_text">Default button text</string>
+</resources>
